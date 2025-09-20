@@ -124,6 +124,6 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## Contact
 
-\Gabriel Cunha Ciampaglia - \gabriel.cunha.ciam@gmail.com
+Gabriel Cunha Ciampaglia - gabriel.cunha.ciam@gmail.com
 
 Project Link: https://github.com/GabrielCunhaCiampaglia/Synaptica
