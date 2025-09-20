@@ -45,8 +45,8 @@ This project is built with a modern and robust technology stack:
 
 * **Frontend (Mobile App):** [Flutter](https://flutter.dev/) - For building a beautiful, natively compiled, multi-platform application from a single codebase.
 * **Backend (API):** [C# with .NET](https://dotnet.microsoft.com/) - For a powerful, scalable, and secure server-side infrastructure.
-* **AI & Machine Learning:** Integrated with \[Your AI Service, e.g., Google Gemini API, OpenAI API] for natural language processing.
-* **Database:** \[Your Database, e.g., PostgreSQL, SQLite, Firebase Firestore]
+* **AI & Machine Learning:** Integrated with \(Developing...) for natural language processing.
+* **Database:** \Firebase
 
 ---
 
@@ -124,6 +124,6 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## Contact
 
-\[Your Name] - \[@YourTwitterHandle] - \[your-email@example.com]
+\Gabriel Cunha Ciampaglia - \gabriel.cunha.ciam@gmail.com
 
-Project Link: [https://github.com/your-github-username/synaptica](https://github.com/your-github-username/synaptica)
+Project Link: https://github.com/GabrielCunhaCiampaglia/Synaptica
